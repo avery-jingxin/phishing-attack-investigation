@@ -1,0 +1,4 @@
+pos_words = []
+neg_words = []
+pos_score = 0
+neg_score = 0
